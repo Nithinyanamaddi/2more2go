@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82905714860",
+    "project_id": "more2go-544fc",
+    "storage_bucket": "more2go-544fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82905714860:android:6cf339371b1bbcab598f09",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82905714860-1v9c4fudrth0a1sllqq5uv4htgojkqhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMm2FFdr5MUG5gJ98oxkZDcYJ_JTdWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82905714860-1v9c4fudrth0a1sllqq5uv4htgojkqhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
